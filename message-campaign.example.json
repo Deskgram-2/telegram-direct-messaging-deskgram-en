@@ -1,0 +1,7 @@
+{
+  "campaign_name": "Lead outreach",
+  "threads": 3,
+  "delay_min_seconds": 45,
+  "delay_max_seconds": 120,
+  "use_ai": true
+}

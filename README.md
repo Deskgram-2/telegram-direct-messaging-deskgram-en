@@ -1,0 +1,82 @@
+# Telegram Direct Messaging with Deskgram 2
+
+![Direct Messaging Main](assets/screenshots/spam-pm__main__en.png)
+
+Direct Messaging is a Deskgram 2 module for sending messages into Telegram private chats at scale. It combines delivery settings, limits, delays, autoresponder logic, AI text generation, and execution control inside one interface.
+
+[Deskgram 2 Hub](https://github.com/Deskgram-2/deskgram-2-telegram-automation-en) · [Website](https://deskgram2.com/) · [Telegram Bot](https://t.me/DG2welcomebot) · [Web Preview](https://deskgram2.com/web-preview)
+
+## About the module
+
+| Parameter | What is inside |
+|---|---|
+| Main task | Bulk messaging to Telegram private chats |
+| Content support | Text, media, reposts, stories, and constructor-based formats |
+| Extra layers | Autoresponder, scheduling, AI rewrite and generation |
+| Useful for | Lead generation, warmup flows, follow-up communication |
+| Related modules | Audience Parser, Join Groups, Neuro Chatting |
+
+## What it can do
+
+- send messages into Telegram private chats;
+- work from a prepared recipient base;
+- configure threads, limits, and delays;
+- use AI for message generation or rewriting;
+- connect autoresponder logic after the initial send;
+- keep statistics and execution logs;
+- handle exclusions and blacklist logic.
+
+## Quick start
+
+1. Prepare a recipient list.
+2. Build the message in the constructor.
+3. Configure threads, limits, and delays.
+4. Enable AI or autoresponder logic if needed.
+5. Assign accounts and launch the task.
+
+## Interface highlights
+
+### Send options
+
+![Send Options](assets/screenshots/spam-pm__send-options__en.png)
+
+### Autoresponder
+
+![Autoresponder](assets/screenshots/spam-pm__autoresponder__en.png)
+
+### AI settings
+
+![AI Settings](assets/screenshots/spam-pm__ai-tab__en.png)
+
+## When it is especially useful
+
+- when you need a structured Telegram outreach flow from a collected audience base;
+- when follow-up logic matters after the first message;
+- when text variation is important for repetitive campaigns;
+- when you want visible pacing, status tracking, and logs.
+
+## Why it is more convenient than manual messaging
+
+| Manual approach | Direct Messaging in Deskgram 2 |
+|---|---|
+| Sending is slow and repetitive | The workflow is multi-threaded |
+| Limits are hard to manage | Limits and delays are configured up front |
+| There is no shared campaign-level visibility | Logs and statistics are built in |
+| Follow-up replies are easy to lose | Autoresponder logic can continue the flow |
+| Text becomes repetitive fast | AI helps vary and adapt the message |
+
+## Related repositories
+
+- [Deskgram 2 Hub](https://github.com/Deskgram-2/deskgram-2-telegram-automation-en)
+- [Audience Parser](https://github.com/Deskgram-2/telegram-audience-parser-deskgram-en)
+- [Join Groups](https://github.com/Deskgram-2/telegram-join-groups-deskgram-en)
+
+## FAQ
+
+### Can I use my own text without AI?
+
+Yes. AI is optional, not required.
+
+### Can I collect replies from users?
+
+Yes. That is one of the natural next steps through autoresponder scenarios.
