@@ -42,6 +42,12 @@ Direct Messaging is a Deskgram 2 module for sending messages into Telegram priva
 - [Automation Settings](https://github.com/Deskgram-2/telegram-automation-settings-deskgram-en) if AI and shared parameters are part of the scenario.
 - [Join Groups](https://github.com/Deskgram-2/telegram-join-groups-deskgram-en) if accounts must enter the target environment before messaging.
 
+## What this outreach route often expands into
+
+- [Invite Tool](https://github.com/Deskgram-2/telegram-invite-tool-deskgram-en) if messaging sits inside a larger growth workflow.
+- [Task Manager](https://github.com/Deskgram-2/telegram-task-manager-deskgram-en) if you want one control layer for execution, failures, and pacing.
+- [Neuro Commenting](https://github.com/Deskgram-2/telegram-neuro-commenting-deskgram-en) if direct messaging is only one part of a broader engagement system.
+
 ## Interface highlights
 
 ### Send options
@@ -81,6 +87,9 @@ Direct Messaging is a Deskgram 2 module for sending messages into Telegram priva
 - [Account Manager](https://github.com/Deskgram-2/telegram-account-manager-deskgram-en)
 - [Proxy Manager](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram-en)
 - [Automation Settings](https://github.com/Deskgram-2/telegram-automation-settings-deskgram-en)
+- [Invite Tool](https://github.com/Deskgram-2/telegram-invite-tool-deskgram-en)
+- [Task Manager](https://github.com/Deskgram-2/telegram-task-manager-deskgram-en)
+- [Neuro Commenting](https://github.com/Deskgram-2/telegram-neuro-commenting-deskgram-en)
 
 ## FAQ
 
