@@ -34,6 +34,14 @@ Direct Messaging is a Deskgram 2 module for sending messages into Telegram priva
 4. Enable AI or autoresponder logic if needed.
 5. Assign accounts and launch the task.
 
+## What to connect with this workflow
+
+- [Audience Parser](https://github.com/Deskgram-2/telegram-audience-parser-deskgram-en) if the recipient base is not ready yet.
+- [Account Manager](https://github.com/Deskgram-2/telegram-account-manager-deskgram-en) if you need to organize the account grid first.
+- [Proxy Manager](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram-en) if the campaign depends on a stable infrastructure layer.
+- [Automation Settings](https://github.com/Deskgram-2/telegram-automation-settings-deskgram-en) if AI and shared parameters are part of the scenario.
+- [Join Groups](https://github.com/Deskgram-2/telegram-join-groups-deskgram-en) if accounts must enter the target environment before messaging.
+
 ## Interface highlights
 
 ### Send options
@@ -70,6 +78,9 @@ Direct Messaging is a Deskgram 2 module for sending messages into Telegram priva
 - [Deskgram 2 Hub](https://github.com/Deskgram-2/deskgram-2-telegram-automation-en)
 - [Audience Parser](https://github.com/Deskgram-2/telegram-audience-parser-deskgram-en)
 - [Join Groups](https://github.com/Deskgram-2/telegram-join-groups-deskgram-en)
+- [Account Manager](https://github.com/Deskgram-2/telegram-account-manager-deskgram-en)
+- [Proxy Manager](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram-en)
+- [Automation Settings](https://github.com/Deskgram-2/telegram-automation-settings-deskgram-en)
 
 ## FAQ
 
