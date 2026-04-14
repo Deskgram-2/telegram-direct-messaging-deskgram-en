@@ -79,6 +79,29 @@ Direct Messaging is a Deskgram 2 module for sending messages into Telegram priva
 | Follow-up replies are easy to lose | Autoresponder logic can continue the flow |
 | Text becomes repetitive fast | AI helps vary and adapt the message |
 
+## What to choose: Direct Messaging or Neuro Mailing
+
+| If your goal is | Better fit |
+|---|---|
+| Run structured outreach with clear control over bulk sends | [Direct Messaging](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram-en) |
+| Build a more conversational AI layer in private chats | [Neuro Mailing](https://github.com/Deskgram-2/telegram-neuro-mailing-deskgram) |
+| Touch the full base first and deepen conversations later | Direct Messaging first, then Neuro Mailing |
+| Mix controlled execution with AI follow-up | Use both modules in one route |
+
+## Scenario FAQ
+
+### When should I use a broad audience base and when should I use a warmer one?
+
+A broad base from [Audience Parser](https://github.com/Deskgram-2/telegram-audience-parser-deskgram-en) is useful for scale. A warmer base from [Comment Audience Parser](https://github.com/Deskgram-2/telegram-comment-audience-parser-deskgram) is usually better when response quality matters more than raw reach.
+
+### When is AI worth enabling here?
+
+AI is most useful when you need more wording variation, softer phrasing, or better segmentation across the recipient base. If the offer is simple and tightly controlled, a standard message can be enough.
+
+### When is autoresponder optional and when is it essential?
+
+If the campaign only needs a first touch, autoresponder can stay optional. If the goal includes follow-up handling, reply capture, and deeper conversation, it should be part of the setup from the beginning.
+
 ## Related repositories
 
 - [Deskgram 2 Hub](https://github.com/Deskgram-2/deskgram-2-telegram-automation-en)
