@@ -4,7 +4,14 @@
 
 Direct Messaging is a Deskgram 2 module for sending messages into Telegram private chats at scale. It combines delivery settings, limits, delays, autoresponder logic, AI text generation, and execution control inside one interface.
 
-[Deskgram 2 Hub](https://github.com/Deskgram-2/deskgram-2-telegram-automation-en) · [Website](https://deskgram2.com/) · [Telegram Bot](https://t.me/DG2welcomebot) · [Web Preview](https://deskgram2.com/web-preview)
+[Deskgram 2 Hub](https://github.com/Deskgram-2/deskgram-2-telegram-automation-en) · [Website](https://deskgram2.com/) · [Telegram Bot](https://t.me/DG2welcomebot) · [Web Preview](https://deskgram2.com/web-preview)
+## Interactive Web Preview
+
+[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/app-demo/functions/spam_pm)
+
+Try the module interface in the browser: [Open web preview](https://deskgram2.com/app-demo/functions/spam_pm)
+
+
 
 ## About the module
 
