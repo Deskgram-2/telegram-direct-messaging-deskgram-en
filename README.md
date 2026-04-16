@@ -11,6 +11,8 @@ Direct Messaging is a Deskgram 2 module for sending messages into Telegram priva
 
 Try the module interface in the browser: [Open web preview](https://deskgram2.com/app-demo/functions/spam_pm)
 
+If you want to evaluate the interface before installing anything, open the web preview first: it helps you compare the module with nearby workflows and understand the section before setup.
+
 
 
 ## About the module
@@ -122,6 +124,11 @@ If the campaign only needs a first touch, autoresponder can stay optional. If th
 - [Neuro Commenting](https://github.com/Deskgram-2/telegram-neuro-commenting-deskgram-en)
 
 ## FAQ
+
+
+### Can I look at the interface before installing anything?
+
+Yes. This README already includes a direct web preview link, so you can open the module in the browser, inspect the section, and decide whether it matches your workflow before installation and account setup.
 
 ### Can I use my own text without AI?
 
